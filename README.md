@@ -7,7 +7,7 @@ Steganography is a technique of hiding messages in a picture. <br>More informati
 - Python 3.x versions
 - Please install the <a href="https://pypi.org/project/stegano/">stegano</a> plugin
 ~~~~
-pip install stegano
+pip install -r requirements.txt
 ~~~~
 
 #### Examples
